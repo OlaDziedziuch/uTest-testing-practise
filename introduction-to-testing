@@ -1,0 +1,19 @@
+TITLE: Windows 10 - Bestsellers - iPhone XS Max has a incorrect price in the slider
+STATUS: Approved 
+VALUE: Somewhat valuable
+BUILD: Academy - Introduction to Testing
+MODIFIED: 09/12/19 at 2:31 PM
+SEVERITY: Medium
+ISSUE TYPE: Functional
+FREQUENCY: Every time
+ENVIRONMENT: Windows 10 - Chrome
+ACTION PERFORMED:
+    1. Open the testing website: https://tuxedo.menswearhouse.com/.
+    2. Scroll down.
+    3. Find on the right section "About" and click "Join Our Team".
+EXPECTED RESULT:
+User should be redirected to the page: http://employment.menswearhouse.com.
+ACTUAL RESULT:
+Error is displayed: "400 Bad Request". If user clicks several times another error occurs: "The requested URL could not be retrieved".
+ERROR MESSAGE:
+"400 Bad Request" and "The requested URL could not be retrieved".
