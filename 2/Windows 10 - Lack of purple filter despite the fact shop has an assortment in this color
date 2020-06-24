@@ -1,0 +1,18 @@
+TITLE: Windows 10 - Lack of purple filter despite the fact shop has an assortment in this color
+STATUS: Approved 
+VALUE: Somewhat valuable
+BUILD: Academy - Computers
+MODIFIED: 09/27/19 at 10:04 PM
+SEVERITY: Medium
+ISSUE TYPE: Functional
+FREQUENCY: Every time
+ENVIRONMENT: Windows 10 - Chrome
+ACTION PERFORMED:
+    1. Login to your account on website: https://smarter-phone.co/en/.
+    2. Click "Samsung" on the menu.
+    3. Try to find by scrolling random purple product.
+    4. Click "Galaxy S9 Plus" (first purple product in this category).
+EXPECTED RESULT:
+User should find this product by click purple filter.
+ACTUAL RESULT:
+User can find this product only by manually scrolling or by using grey filter. It also means that user who is looking for grey Samsung devices can also see products in purple.
