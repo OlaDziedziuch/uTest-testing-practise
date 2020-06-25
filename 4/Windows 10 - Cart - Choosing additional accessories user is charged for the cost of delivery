@@ -1,0 +1,23 @@
+TITLE: Windows 10 - Cart - Choosing additional accessories user is charged for the cost of delivery.
+STATUS:  Approved 
+VALUE: Very valuable
+BUILD: Academy - Computers
+MODIFIED: 09/25/19 at 4:55 PM
+SEVERITY: Critical
+ISSUE TYPE: Functional
+FREQUENCY: Every time
+ENVIRONMENT: Windows 10 - Chrome
+ACTION PERFORMED:
+    1. Login to your account on website: https://smarter-phone.co/en/.
+    2. Change the country: The Great Britain.
+    3. Click "Samsung" on the menu.
+    4. Choose "Samsung Galaxy S7".
+    5. Add this product to cart.
+    6. Click "See my cart".
+    7. Add to your order additional accessories - tempered glass protection.
+EXPECTED RESULT:
+All products should cost 98 pounds.
+ACTUAL RESULT:
+All products cost 101 pounds.
+This difference is due to the fact that the system adds the delivery amount.
+According to FAQ all shipments are free of charge (FAQs -> Shipment ->"Shipping is free of charge when shopping Smarter")."
