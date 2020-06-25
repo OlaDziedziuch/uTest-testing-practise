@@ -1,0 +1,17 @@
+STATUS:  Approved 
+VALUE: Somewhat valuable
+BUILD: Academy - Computers
+MODIFIED: 09/24/19 at 12:01 AM
+SEVERITY: High
+ISSUE TYPE: Functional
+FREQUENCY: Every time
+ENVIRONMENT:   Windows 10 - Chrome
+ACTION PERFORMED:
+    1. Login to your account on website: https://smarter-phone.co.
+    2. Click "Best sellers".
+    3. Find slider "iPhone XS Max from $787 “.
+    4. Click this product and try buy it for that price.
+EXPECTED RESULT:
+User should see and buy this product from $787.
+ACTUAL RESULT:
+The cheapest product is from $954.
