@@ -1,0 +1,25 @@
+STATUS:  Approved 
+VALUE: Very valuable
+BUILD: Academy - Mobile devices
+MODIFIED: 09/30/19 at 5:54 PM
+SEVERITY: Medium
+ISSUE TYPE: Functional
+FREQUENCY: Every time
+ENVIRONMENT: Windows 10 - Chrome
+ACTION PERFORMED:
+    1. Open the website and login to your account on: https://www.brooksbrothers.com/.
+    2. Click the menu icon located on the right and choose "Sale".
+    3. Click "Women's sale".
+    4. Click "Apparel".
+    5. Click "Petites".
+    6. Click product "Petite Non-Iron Tailored-Fit Striped Stretch-Cotton Poplin Shirt".
+    7. Press "Sizing Guide" link to check your Bust and Waist.
+EXPECTED RESULT:
+User shouldn't add this product to shopping bag, because it's N/A. It means that "Add to bag" button should be not active.
+The product should be:
+a) if it will be available in the near future, the user should have information when he could expect to be available (for instance in the form of a notification about the estimated product availability date or by email),
+b) If this product will not be available in the future should be removed (in particular that the product is on the promoted place - banner at the home page).
+ACTUAL RESULT:
+User can add product to his shopping bag.
+ERROR MESSAGE:
+One or more items prohibited to ship to your shipping and/or billing address; please remove item(s) to continue your checkout process.
