@@ -1,0 +1,23 @@
+TITLE: Samsung Galaxy A7 / Windows 10 - PDP - Lack of "Sizing Guide" for Petite Products in the tab "Sale"
+STATUS: Approved 
+VALUE: Somewhat valuable
+BUILD: Academy - Mobile devices
+MODIFIED: 10/02/19 at 4:54 PM
+SEVERITY: Medium
+ISSUE TYPE: Functional
+FREQUENCY: Every time
+ENVIRONMENT:  Samsung Galaxy A7 (2018) - Android 9.0 (Pie), Wi-Fi
+ACTION PERFORMED:
+      1. Open the website and login to your account on: https://www.brooksbrothers.com/.
+      2. Click the menu icon on the right and choose "Sale".
+      3. Click "Women's sale".
+      4. Click "Apparel".
+      5. Click "Petites".
+      6. Click product "Petite Non-Iron Tailored-Fit Striped Stretch-Cotton Poplin Shirt".
+      7. Press "Sizing Guide" link to check your Bust and Waist.
+EXPECTED RESULT:
+User should see link with "Sizing Guide" for Petites Products.
+ACTUAL RESULT:
+User see link with "Sizing Guide" without guiding for Petites Products. In this case we can face two problems:
+- user may refrain from trying to buy if he cannot identify his size,
+- shop should want to minimize the risk of returning the product. This applies in particular when the ordering parties are people from other countries with different measures. In this fact shop could have higher shipping and return costs.
