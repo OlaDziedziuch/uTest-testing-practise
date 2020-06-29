@@ -1,0 +1,21 @@
+TITLE: Samsung Galaxy A7 -Non-working "Cancel" button on product with "Add a monogram" function
+STATUS:  Approved 
+VALUE: Somewhat valuable
+BUILD: Academy - Mobile devices
+MODIFIED: 10/04/19 at 11:29 AM
+SEVERITY: High
+ISSUE TYPE: Functional
+FREQUENCY: Hardly Ever
+ENVIRONMENT:  Samsung Galaxy A7 (2018) - Android 9.0 (Pie), Wi-Fi
+ACTION PERFORMED:
+    1. Open the website and login to your account on: https://www.brooksbrothers.com/.
+    2. Use search engine and write "Pajamas".
+    3. Scroll down and click "Multi-stripe Nightshirt".
+    4. Choose size "S" and check "Add a Monogram".
+    5. Try to click "Cancel" button.
+EXPECTED RESULT:
+User should click "Cancel" button if he would like to be able to abandon of adding the monogram.
+ACTUAL RESULT:
+User couldn't click "Cancel" button, because moved page elements block this button. Additionally "May in suggest" section also blocks the buttons: Quantity, Add to Bag, + Wishlist. In fact it precludes the purchase process from going through.
+ADDITIONAL ENVIRONMENT INFO:
+The situation of changing the location of the "May we Suggest" section also appears on other products, blocking the other buttons. Sometimes these are sporadic situations. Unfortunately, this kind of situation that can have a very negative impact on the entire UX of the store's website.
